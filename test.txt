@@ -1,4 +1,11 @@
 Simple file with simple text in it.
 
+
 Changed from dekstop.
+Changed from Github.
+
+Conflict is solved.
+
+
+
 
